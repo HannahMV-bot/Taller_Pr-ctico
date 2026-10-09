@@ -1,6 +1,5 @@
 num = int(input("Ingrese un número entero positivo: "))
 
-# El ciclo elimina el último dígito dividiendo entre 10 en cada paso
 contador = 0
 temp = num
 
