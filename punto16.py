@@ -1,6 +1,5 @@
 num = int(input("Ingrese un número entero positivo: "))
 
-
 contador = 0
 temp = num
 
