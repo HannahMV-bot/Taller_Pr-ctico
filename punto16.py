@@ -14,5 +14,5 @@ def ejecutar():
         print(f"El número {num} tiene {contador} dígitos.")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     ejecutar()
