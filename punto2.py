@@ -1,11 +1,14 @@
-Num = int (input ("Ingrese su numero: "))
+def ejecutar():
+    Num = int(input("Ingrese su número: "))
 
-if (Num > 0):
-    print ("Numero Positivo")
-elif (Num < 0):
-    print ("Numero Negativo")
-else:
-    print ("El numero ingresado es cero")
+    if Num > 0:
+        print("Número positivo")
+    elif Num < 0:
+        print("Número negativo")
+    else:
+        print("El número ingresado es cero")
 
 
-
+if __name__ == "__main__":
+    ejecutar()
+    

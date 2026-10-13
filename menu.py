@@ -1,10 +1,8 @@
-
 import punto12
 import punto13
 import punto16
 import punto2
 import punto3
-
 
 while True:
     print("\n========== MENÚ DE EJERCICIOS ==========")
